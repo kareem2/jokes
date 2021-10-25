@@ -1,0 +1,16 @@
+{
+    "name": "karim/random-joks",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RandomJokes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "karim",
+            "email": "k.harazeen@gmail.com"
+        }
+    ],
+    "require": {}
+}
