@@ -2,9 +2,9 @@
 
 require 'vendor/autoload.php';
 
-use RandomJokes\JokPicker;
+use RandomJokes\JokePicker;
 
 
-$jokesPicker = new JokPicker();
+$jokesPicker = new JokePicker();
 
 print_r($jokesPicker->pick());

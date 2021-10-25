@@ -2,7 +2,7 @@
 
 namespace RandomJokes;
 
-class JokPicker
+class JokePicker
 {
 
     public $jokes = [
