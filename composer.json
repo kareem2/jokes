@@ -13,5 +13,7 @@
         }
     ],
     "require": {},
-    "license": "MIT"
+    "license": [
+        "MIT"
+    ]
 }
