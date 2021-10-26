@@ -12,5 +12,6 @@
             "email": "k.harazeen@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "mit"
 }
